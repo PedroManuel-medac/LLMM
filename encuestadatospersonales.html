@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+ <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Datos personales</title>
+ </head>
+
+ <body>
+    <form action="http://localhost/proceso.php" method="post">
+ <fieldset>
+    <legend><b>Datos personales</b></legend>
+
+    <p>Nombre: <input type="text"></p>
+    <p>Apellidos: <input type="text"></p>
+    <p>Edad: <input type="text"></p>
+
+    <b>Selecciona su género</b> <br>
+    <input type="radio" name="sexo" value="h">Hombre <input type="radio" name="sexo" value="m">Mujer
+
+ </fieldset>
+
+ <fieldset>
+    <legend><b>Contacto</b></legend>
+
+    <p>Correo Electrónico: <input type="text"></p>
+    <p>Código postal: <input type="text"></p>
+    <p>Dirección: <input type="text"></p>
+
+
+    Ciudad
+    <select>
+        <option>Jaén</option>
+        <option>Sevilla</option>
+        <option>Granada</option>
+        <option>Córdoba</option>
+        <option>Huelva</option>
+        <option>Cádiz</option>
+        <option>Almería</option>
+        <option>Málaga</option>
+    </select>
+
+
+ <p>Contraseña: <input type="password" name="Contraseña"></p>
+
+ </fieldset>
+
+ <fieldset>
+    <legend>Datos de interes</legend>
+
+        <b>Estado Civil</b> <br>
+        <input type="radio" name="estado" value="c">Casado <input type="radio" name="estado" value="n">No Casado
+
+    <p><b>Hobbies</b></p>
+
+        <input type="checkbox">Deporte <br>
+        <input type="checkbox">Cine <br>
+        <input type="checkbox">Lectura <br>
+        <input type="checkbox">Videojuegos <br>
+
+ </fieldset>
+
+ <fieldset>
+    <legend>Comentarios adicionales</legend>
+
+    <b>Escribe aquí tu comentario</b><br>
+    <textarea placeholder="Escribe aquí..." name="comentarios" rows="7" cols="50"></textarea>
+
+ </fieldset>
+
+ <br>
+
+ <input type="submit" value="Enviar">
+ <input type="reset" value="Resetear">
+
+ </form>
+
+ <p>Para volver al curriculum principal <a href="index.html">aquí</a></p>
+
+ </body>
+
+ </html>
