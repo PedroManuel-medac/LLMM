@@ -7,7 +7,7 @@
     <language>es</language>
     <copyright>Pedro Manuel Liébana Beltrán</copyright>
     <pubDate>Wed, 23 Apr 2025 17:06:05 GMT</pubDate>
-    <lastBuildDate>Wed, 23 Apr 2025 17:20:57 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 23 Apr 2025 17:59:10 GMT</lastBuildDate>
     <category>Videojuegos</category>
     <generator>Absolute RSS Editor</generator>
     <docs>http://www.rssboard.org/rss-specification</docs>
@@ -17,10 +17,53 @@
       <link>https://www.tokioschool.com</link>
       <description>Lista de videojuegos con mayor éxito.</description>
     </image>
+    <textInput>
+      <title>Los videojuegos más vendidos de la historia</title>
+      <description>Lista actualizada de los videojuegos con mayores ventas a nivel mundial.</description>
+      <name>Pedro Manuel Liébana Beltrán</name>
+      <link>https://www.tokioschool.com/noticias/videojuegos-mas-vendidos-historia/</link>
+    </textInput>
+    <item>
+      <title>Minecraft vuelve al top tras 15 años</title>
+      <link>https://www.elespectador.com/tecnologia/minecraft-15-anos-del-fenomeno-global-y-el-videojuego-mas-exitoso-de-la-historia/</link>
+      <description>A pesar de haber sido lanzado en 2011, Minecraft sigue entre los más vendidos en 2025. Exploramos su impacto, actualizaciones recientes y cómo sigue captando nuevas generaciones.</description>
+      <category>Construcción</category>
+      <enclosure url="https://i.ytimg.com/vi/LKw_2rj7hLc/maxresdefault.jpg" length="0" type="image/jpeg" />
+      <guid isPermaLink="false">97278445-8735-4493-A8E1-EEEA0D84E82D</guid>
+      <pubDate>Wed, 23 Apr 2025 17:36:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>Top 5 videojuegos más vendidos en abril 2025</title>
+      <link>https://blog.caixabank.es/blogcaixabank/videojuegos-mas-vendidos-historia/</link>
+      <description>Descubre cuáles son los títulos que están arrasando en ventas este mes, con datos globales.</description>
+      <category>Rankings</category>
+      <enclosure url="https://www.gdcomputadoras.com/2680-large_default/lista-de-juegos-ps4ps5.jpg" length="0" type="image/jpeg" />
+      <guid isPermaLink="false">85803BB5-EEBC-4418-8F1B-12985F39A45B</guid>
+      <pubDate>Wed, 23 Apr 2025 17:35:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>¿Por qué GTA VI sigue en el top un año después?</title>
+      <link>https://www.reddit.com/r/GTA6/comments/17uhopj/why_gta_vi_will_launch_at_the_same_time_or/?tl=es-es</link>
+      <description>Analizamos cómo Grand Theft Auto VI se mantiene como uno de los más vendidos tras su lanzamiento.</description>
+      <category>Consolas</category>
+      <enclosure url="https://motor.elpais.com/wp-content/uploads/2023/12/GTA-6-coches-scaled.jpg" length="0" type="image/jpeg" />
+      <guid isPermaLink="false">71467DE7-D6C2-450D-BE7E-1823A4C55512</guid>
+      <pubDate>Wed, 23 Apr 2025 17:32:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>Los juegos más vendidos de Nintendo Switch en 2025 (hasta ahora)</title>
+      <link>https://www.nintenderos.com/2025/02/juegos-mas-vendidos-nintendo-switch/</link>
+      <description>Una mirada a los títulos más exitosos de la consola de Nintendo este año.</description>
+      <category>Consolas</category>
+      <enclosure url="https://www.nintenderos.com/wp-content/uploads/2022/10/nintendo_switch_logo_super_mario_720.jpg" length="0" type="image/jpeg" />
+      <guid isPermaLink="false">F6040C05-6D5C-4580-B52E-56704F3E33E7</guid>
+      <pubDate>Wed, 23 Apr 2025 17:28:37 GMT</pubDate>
+    </item>
     <item>
       <title>Call of Duty 2025: vuelve al top con su nueva temporada</title>
       <link>https://www.hobbyconsolas.com/noticias/call-duty-2025-regresara-futuro-cercano-lanzara-mix-mapas-black-ops-2-otros-ineditos-insider-1412606</link>
       <description>El nuevo contenido multijugador impulsa de nuevo las ventas del popular shooter.</description>
+      <category>Shooters</category>
       <enclosure url="https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/media/image/2024/10/call-duty-black-ops-2-4251102.jpg?tf=1920x" length="0" type="image/jpeg" />
       <guid isPermaLink="false">1B123FE0-28F2-4EAD-8983-355286BC9821</guid>
       <pubDate>Wed, 23 Apr 2025 17:06:16 GMT</pubDate>
